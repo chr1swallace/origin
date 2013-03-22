@@ -1,0 +1,11 @@
+2010-01-05  Chris Wallace  <chris.wallace@cimr.cam.ac.uk>
+
+	* origin.R: tidied code into single file
+
+2010-01-04  Chris Wallace  <chris.wallace@cimr.cam.ac.uk>
+
+	* origin.R: fixed bug with counting number of offspring per family
+
+2010-12-20  Chris Wallace  <chris.wallace@cimr.cam.ac.uk>
+
+	* origin.R: New file.

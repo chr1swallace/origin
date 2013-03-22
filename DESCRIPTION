@@ -1,0 +1,11 @@
+Package: origin
+Type: Package
+Title: Parent of origin testing
+Version: 1.01
+Date: 2009-12-09
+Author: Chris Wallace
+Maintainer: Chris Wallace <chris.wallace@cimr.cam.ac.uk>
+Description: Parent of origin testing using the method proposed by Weinberg, with extension to accomodate more than one affeected offspring in a family.
+License: GPL-3
+LazyLoad: yes
+References: Wallace et al. The imprinted DLK1-MEG3 gene region on chromosome 14q32.2 alters susceptibility to type 1 diabetes. Nat Genet. http://dx.doi.org/doi:10.1038/ng.493
